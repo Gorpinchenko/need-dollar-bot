@@ -1,0 +1,16 @@
+{
+  "name": "dollar-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gorpinchenko",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "crypto-js": "^4.1.1",
+    "telegraf": "^3.38.0"
+  }
+}
