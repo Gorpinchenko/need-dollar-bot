@@ -1,8 +1,8 @@
-Kazan Need dollar bot
+Kazan needs a dollars bot
 -----------------
 
-Это бот для поиска банкоматов тинькофф в городе Казань, в которых можно снять USD
+The bot will help you find Tinkoff bank ATMs where you can withdraw dollars
 
-Бот работает в яндекс облаке, при помощи инструментов Cloud Functions
+The bot works in the Yandex cloud using Cloud Functions tools
 
-Ссылка на бот: https://t.me/KazanNeedDollar
+Link: https://t.me/KazanNeedDollar
